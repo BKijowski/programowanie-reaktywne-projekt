@@ -1,0 +1,19 @@
+body{
+    background-color: #060111;
+}
+.container{
+    display: flex;
+    height: 100%;
+    overflow:hidden;
+    justify-content: flex-start;
+
+}
+.slot{
+    background-color: #ecec9d;
+    width: 200px;
+    height: 350px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
