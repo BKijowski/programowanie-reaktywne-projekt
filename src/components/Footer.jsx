@@ -4,4 +4,4 @@ function Footer() {
         <div className='footer'>Stopka</div>
     )
 }
-export default Footergit
+export default Footer
