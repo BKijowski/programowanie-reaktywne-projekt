@@ -41,7 +41,7 @@ function Header({setSearch}) {
             <form>
               <input onChange={e=>searchInput(e.target.value)}
                 type="text"
-                placeholder="Szukaj filmów i seriali!"
+                placeholder="wyszukaj"
               />
             </form>
           </div>
