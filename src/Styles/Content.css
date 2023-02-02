@@ -1,0 +1,22 @@
+.content{
+    width: 90%;
+    height: 30%;
+    margin-left: 200px;
+}
+.content .part_content{
+    margin: 15px;
+    display: flex;
+    float: left;
+    flex-direction: column;
+}
+
+.content .image {
+    padding: 5px;
+    height: 300px;
+}
+
+.content .title {
+    color: orange;
+    text-align: center;
+
+}
